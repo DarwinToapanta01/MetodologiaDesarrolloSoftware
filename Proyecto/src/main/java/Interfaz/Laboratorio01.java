@@ -351,9 +351,7 @@ public class Laboratorio01 extends javax.swing.JFrame implements Runnable {
 
     private void mostrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mostrarActionPerformed
         // TODO add your handling code here:
-        Salida regresa = new Salida();
-        regresa.setVisible(true);
-        this.setVisible(false);
+       
     }//GEN-LAST:event_mostrarActionPerformed
 
     private void salirtBtActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_salirtBtActionPerformed
